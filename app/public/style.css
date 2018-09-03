@@ -1,0 +1,33 @@
+
+body{
+    background-image: url(https://images4.alphacoders.com/211/21144.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color: rgb(51, 51, 51);
+    color: white;
+    opacity: .75;
+    margin-top: 20px;
+}
+
+#submit {
+    background: #337ab7;
+}
+
+#jumbo_h2 {
+    color: white;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.panel-title {
+    color: #337ab7;
+}
