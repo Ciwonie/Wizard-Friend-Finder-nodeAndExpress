@@ -21,6 +21,5 @@ Jonathan E. Cirone
  
 ![image](https://user-images.githubusercontent.com/38769635/44998931-13a3a800-af7f-11e8-8dd8-b8876a4eb80c.png)
 ![image](https://user-images.githubusercontent.com/38769635/44998942-2b7b2c00-af7f-11e8-82c7-66196dff71be.png)
-![image](https://user-images.githubusercontent.com/38769635/44998946-36ce5780-af7f-11e8-8c1d-c98d76b942d9.png)
 ![image](https://user-images.githubusercontent.com/38769635/44998948-40f05600-af7f-11e8-8e6a-e7dc49a44602.png)
 ![image](https://user-images.githubusercontent.com/38769635/44998968-6b421380-af7f-11e8-958f-391ce5722303.png)
