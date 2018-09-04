@@ -6,7 +6,7 @@ A Node.js and Express Project
 ## Author 
 Jonathan E. Cirone
 
-# What it is
+# Function
  This program was designed to practice node.js and express routing. With a personal api, the user is able to route to different pages with express and match data points based on user inputs.  
  
  ## How To
