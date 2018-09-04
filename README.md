@@ -3,7 +3,7 @@ A Node.js and Express Project
 
 # Project source can be downloaded from [Github](https://github.com/Ciwonie/Wizard-Friend-Finder-nodeAndExpress)
 
-## Author 
+## Creator
 Jonathan E. Cirone
 
 # Function
